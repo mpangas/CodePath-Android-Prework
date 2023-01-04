@@ -1,22 +1,22 @@
-# Android Prework - Hello World App
+# Android Prework - Say Hello
 
-Submitted by: Michael Pangas
+Submitted by: **Michael Pangas**
 
-**Name of your app** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
+**Say Hello** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
-Time spent: **X** hours spent in total
+Time spent: **1** hour spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-* [ ] Image and introductory message displayed on screen
-* [ ] Button displayed on screen
-* [ ] Toast with message appears when button is pressed 
+* [x] Image and introductory message displayed on screen
+* [x] Button displayed on screen
+* [x] Toast with message appears when button is pressed 
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [x] Improvements to the UI including color and styling
 
 ## Video Walkthrough
 
@@ -24,12 +24,7 @@ Here's a walkthrough of implemented features:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with [ShareX](https://getsharex.com/)
 
 ## Notes
 
@@ -37,7 +32,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2023 Michael Pangas
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
