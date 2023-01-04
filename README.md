@@ -16,7 +16,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [x] Improvements to the UI including color and styling
+* [x] Improvements to the UI including an image border and font styling.
 
 ## Video Walkthrough
 
