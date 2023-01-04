@@ -1,4 +1,4 @@
-# Android Prework - Say Hello
+# Android Prework - *Say Hello*
 
 Submitted by: **Michael Pangas**
 
@@ -28,7 +28,7 @@ GIF created with [ShareX](https://getsharex.com/)
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+One challenge I encountered while working with Android Studio was the inability to view my Toast when the button was clicked. After some debugging, I realized that the issue was with my version of the emulator. I switched to using the Pixel 5 emulator 
 
 ## License
 
