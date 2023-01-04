@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">HelloWorld</string>
-    <string name="michael_intro">Hello World! My name is Michael. I love problem-solving and human-centered design.</string>
+    <string name="michael_intro">Hello World! My name is Michael. I love problem-solving and human-centered design.\n\nI am a Computer Science student motivated to make the world better through software development.</string>
     <string name="button_text">Say Hello!</string>
 </resources>
