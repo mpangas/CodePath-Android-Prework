@@ -22,13 +22,13 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/0Acr2cc.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [ShareX](https://getsharex.com/)
 
 ## Notes
 
-One challenge I encountered while working with Android Studio was the inability to view my Toast when the button was clicked. After some debugging, I realized that the issue was with my version of the emulator. I switched to using the Pixel 5 emulator 
+One challenge I encountered while working with Android Studio was the inability to view my Toast when the button was clicked. After some debugging, I realized that the issue was with my version of the emulator. I switched to using the Pixel 5 emulator and this problem was solved. I could now see the Toast appear.
 
 ## License
 
